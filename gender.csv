@@ -1,0 +1,25 @@
+Year,Gender,Professional_Level,Number_Of_People
+2020,Female,Professional,59
+2020,Male,Professional,41
+2020,Binary ,Professional,0
+2020,Female,Mid Level Management,14
+2020,Male,Mid Level Management,21
+2020,Binary ,Mid Level Management,0
+2020,Female,Senior Level Management,16
+2020,Male,Senior Level Management,32
+2020,Binary ,Senior Level Management,0
+2020,Female,Total,89
+2020,Male,Total,94
+2020,Binary ,Total,0
+2021,Female,Professional,98
+2021,Male,Professional,56
+2021,Binary ,Professional,2
+2021,Female,Mid Level Management,22
+2021,Male,Mid Level Management,11
+2021,Binary ,Mid Level Management,0
+2021,Female,Senior Level Management,23
+2021,Male,Senior Level Management,45
+2021,Binary ,Senior Level Management,0
+2021,Female,Total,143
+2021,Male,Total,132
+2021,Binary ,Total,2
